@@ -235,7 +235,7 @@ Sin response body
 ## Jacoco
 * En el momento de realizar el build de la aplicación (el primer comando al comienzo de este documento) se va a generar a la par un reporte de Jacoco, herramienta que se utiliza para visualizar porcentajes de coverage. Estos gráficos y el reporte final se podrán ver en la siguiente ruta una vez finalizado el build de la app: 
 
-![Jacoco](src/main/resources/images/jacoco.png)
+![Jacoco](https://github.com/NahuelGiani/bci-test/blob/master/src/main/resources/images/Jacoco.png)
 
 ```
 <Raiz del proyecto>/target/site/jacoco/index.html
